@@ -1,4 +1,5 @@
 ![image](https://cloud.githubusercontent.com/assets/22159102/21554484/9d542f5a-cdc4-11e6-8c4c-7730a9e9e2d1.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fprintedheart%2Fprerendercloud-lambda-edge.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fprintedheart%2Fprerendercloud-lambda-edge?ref=badge_shield)
 
 # prerendercloud-lambda-edge
 
@@ -143,3 +144,7 @@ You can also sign into AWS and go to CloudFormation and manually remove things.
 * Check the AWS logs (see section "Viewing AWS Logs in CloudWatch")
 * Check Prerender.cloud logs (see section "Viewing Prerender.cloud logs")
 * Sometimes (rarely) there's an actual problem with AWS Lambda and you [may just need to re-deploy](https://www.reddit.com/r/aws/comments/7gumv7/question_aws_lambda_nodejs610_environment_issue/)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fprintedheart%2Fprerendercloud-lambda-edge.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fprintedheart%2Fprerendercloud-lambda-edge?ref=badge_large)
